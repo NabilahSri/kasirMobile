@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food XYZ</string>
+    <string-array name="list_type">
+        <item>Image</item>
+        <item>Document PDF</item>
+    </string-array>
+</resources>
